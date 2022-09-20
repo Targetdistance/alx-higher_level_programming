@@ -1,1 +1,1 @@
-Basic introduction to python, imterpreting python codes, printing formated strings under ALX Africa
+Basic introduction to python, interpreting python codes, printing formated strings under ALX Africa
