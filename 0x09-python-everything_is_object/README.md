@@ -7,7 +7,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX school 
 
 ## Files
 
-All `.txt` files store the answers to the questions asked by Holberton staff.
+All `.txt` files store the answers to the questions asked by ALX staff.
 
 | Filename | Description |
 | -------- | ----------- |
